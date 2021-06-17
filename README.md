@@ -1,8 +1,9 @@
 # fintech-academy
+
 ## 금융권 오픈뱅킹 API 활용 실습(간편결제/ 자산관리)
 
 
-## 금융결제원 개발자 사이트
+## 💻금융결제원 개발자 사이트
 * https://developers.kftc.or.kr/dev
 
 ## React 설치 및 실행
